@@ -1,0 +1,10 @@
+comandos usados:
+git init 
+git add .
+git commit -m "mensaje"
+git checkout branch
+git branch nombre
+git reflog 
+git reset --soft HEAD~1
+git reset --soft hash
+git merge branch 
